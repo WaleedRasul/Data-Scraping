@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+pandas==2.2.1
+Requests==2.31.0
+Scrapy==2.10.1
+Scrapy==2.11.1
